@@ -1,7 +1,6 @@
 import platform
 import psutil
 from cpuinfo import get_cpu_info
-import GPUtil
 import wmi
 
 def information():
